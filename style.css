@@ -1,0 +1,15 @@
+body{
+    background-color:navy;
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: 0px 0px;
+    background-size: 1000px 1900px;
+}
+
+@font-face { font-family: cyberwar;  src: url(cyberwar.ttf);
+} 
+p { 
+font-family:cyberwar;
+color:white;
+background-color:black;
+}
